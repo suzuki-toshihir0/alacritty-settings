@@ -2,4 +2,4 @@
 program = "C:/Windows/System32/wsl.exe tmux"
 
 [font]
-normal.family = "Consolas"
+normal.family = "HackGen Console"
