@@ -1,5 +1,11 @@
 [shell]
-program = "C:/Windows/System32/wsl.exe tmux"
+program = "C:/Windows/System32/wsl.exe"
 
 [font]
-normal.family = "HackGen Console"
+normal.family = "Hackgen Console"
+
+[keyboard]
+bindings = [
+  { key = "PageUp", mods = "None", action = "ScrollLineUp" },
+  { key = "PageDown", mods = "None", action = "ScrollLineDown" }
+]
