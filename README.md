@@ -1,7 +1,8 @@
-# alacritty-settings
+# alacritty-settings (for WSL2 env)
 
 ### Target Version
 - `Alacritty` (https://github.com/alacritty/alacritty.git) @ v0.13.1
+- Alacritty is intended to be installed on Windows and to be used to launch WSL2.
 
 ### How to Use
 - Locate `alacritty/` at `%APPDATA%` (= `%USERPROFILE%/AppData/Roaming`)
