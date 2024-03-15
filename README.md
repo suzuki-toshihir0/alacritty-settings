@@ -6,6 +6,12 @@
 
 ### How to Use
 - Locate `alacritty/` at `%APPDATA%` (= `%USERPROFILE%/AppData/Roaming`)
+  - You can simply complete this by executing `locate.ps1` by PowerShell.
+
+```
+.\locate.ps1
+```
+
 - FYI: See official guide for configuration: https://github.com/alacritty/alacritty?tab=readme-ov-file#windows
 - FYI: TOML contents guideline for Alacritty is https://alacritty.org/config-alacritty.html
 
