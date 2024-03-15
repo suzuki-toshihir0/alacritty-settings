@@ -2,7 +2,7 @@
 program = "C:/Windows/System32/wsl.exe"
 
 [font]
-normal.family = "Hackgen Console"
+normal.family = "HackGen Console NF"
 
 [keyboard]
 bindings = [
