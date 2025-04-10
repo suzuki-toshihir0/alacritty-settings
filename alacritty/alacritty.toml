@@ -7,7 +7,7 @@ normal.family = "HackGen Console NF"
 [keyboard]
 bindings = [
   { key = "PageUp", mods = "None", action = "ScrollLineUp" },
-  { key = "PageDown", mods = "None", action = "ScrollLineDown" }
+  { key = "PageDown", mods = "None", action = "ScrollLineDown" },
 
   { key = "Equals", mods = "Control", action = "IncreaseFontSize" },
   { key = "Plus", mods = "Control|Shift", action = "IncreaseFontSize" },
